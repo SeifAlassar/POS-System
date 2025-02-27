@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Seif Alassar/Desktop/POS_SYSTEM",
-      "program": "c:/Users/Seif Alassar/Desktop/POS_SYSTEM/build/Debug/outDebug",
+      "program": "c:/Users/Seif Alassar/Desktop/POS_SYSTEM/pos_system.exe",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
